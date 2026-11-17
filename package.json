@@ -1,0 +1,20 @@
+{
+  "name": "practica-mapeo-y-react",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Práctica completa de programación funcional, mapeo y aplicaciones en React",
+  "scripts": {
+    "dev:alumnos": "npm --prefix ejercicio-4/react-alumnos run dev",
+    "dev:simbolos": "npm --prefix ejercicio-5/react-dibujos-simbolos run dev",
+    "build:alumnos": "npm --prefix ejercicio-4/react-alumnos run build",
+    "build:simbolos": "npm --prefix ejercicio-5/react-dibujos-simbolos run build"
+  },
+  "keywords": [
+    "react",
+    "python",
+    "functional-programming",
+    "mapping",
+    "mvc"
+  ],
+  "author": "Aitor Portales Crespí"
+}
