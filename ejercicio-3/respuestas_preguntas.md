@@ -60,3 +60,4 @@ La respuesta depende del contexto de evaluación: **didáctico/arquitectura mode
   for i, nota in enumerate(notas_subidas, start=1):
       mostrar_un_alumno(i, nota)
   ```
+

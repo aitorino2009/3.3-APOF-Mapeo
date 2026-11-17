@@ -97,3 +97,4 @@ Este ejercicio es el antecedente directo de la sintaxis estándar utilizada en *
 ```
 
 En React, a diferencia de Python, el mapeo **sí devuelve algo útil**: una lista de elementos del Virtual DOM que React inserta directamente en la interfaz gráfica. Comprender el mapeo en Python facilita la transición inmediata a la programación declarativa moderna en el frontend.
+

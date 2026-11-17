@@ -235,3 +235,4 @@ export const generarDibujoOndasTrenzadas = (ciclos = 3, s = "*") => {
 
   return lineas.join("\n");
 };
+

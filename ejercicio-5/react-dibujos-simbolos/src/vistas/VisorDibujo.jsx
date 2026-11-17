@@ -38,3 +38,4 @@ export const VisorDibujo = ({ contenidoTexto, titulo }) => {
     </section>
   );
 };
+

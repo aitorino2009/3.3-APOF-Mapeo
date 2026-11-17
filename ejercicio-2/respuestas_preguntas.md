@@ -93,3 +93,4 @@ Ocurren dos escenarios según el contexto sintáctico:
    ```
    Se crearía una **expresión generadora** (*generator expression*). Los generadores en Python funcionan bajo el principio de **evaluación perezosa** (*lazy evaluation*): **no ejecutan el código de su interior hasta que alguien consuma sus valores** (por ejemplo, mediante la función `next()`, un bucle `for` o envolviéndolos en `list()`).
    Por lo tanto, **¡no se imprimiría absolutamente nada en la pantalla!** hasta que se iterase activamente sobre el generador.
+

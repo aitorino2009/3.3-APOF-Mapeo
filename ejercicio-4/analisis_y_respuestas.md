@@ -85,3 +85,4 @@ En Python, usar `[mostrar_alumno(...) for ...]` exclusivamente para imprimir por
 
 En cambio, en **React**, `.map(...)` es el **estándar por excelencia de la industria**:
 React requiere una función que reciba cada dato y retorne un componente visual. El array resultante de componentes JSX es consumido activamente por el motor de reconciliación de React para dibujar la interfaz en el navegador. Por tanto, la analogía planteada por el profesor encuentra su máxima y más pura expresión en React.
+

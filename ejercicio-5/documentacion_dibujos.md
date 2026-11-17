@@ -81,3 +81,4 @@ El script imprime por consola:
 1. La traza original detallada de cada cruce y torsión.
 2. El resultado tras las 3 repeticiones: `D A B C`.
 3. Los 3 dibujos gráficos generados con asteriscos (`*`).
+

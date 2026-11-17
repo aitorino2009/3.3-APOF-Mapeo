@@ -69,3 +69,4 @@ export const FilaAlumno = ({ alumno, index, onActualizarNota }) => {
     </tr>
   );
 };
+

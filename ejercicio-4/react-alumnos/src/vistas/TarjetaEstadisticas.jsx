@@ -46,3 +46,4 @@ export const TarjetaEstadisticas = ({ estadisticas, totalVisibles }) => {
     </section>
   );
 };
+

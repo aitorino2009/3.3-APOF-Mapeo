@@ -104,3 +104,4 @@ export const calcularEstadisticas = (alumnos) => {
 
   return { media, total, aprobados, suspensos, max, min };
 };
+

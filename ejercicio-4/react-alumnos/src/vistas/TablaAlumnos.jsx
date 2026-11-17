@@ -47,3 +47,4 @@ export const TablaAlumnos = ({ alumnos, onActualizarNota }) => {
     </div>
   );
 };
+
